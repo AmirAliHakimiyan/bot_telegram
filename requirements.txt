@@ -1,0 +1,4 @@
+telebot
+random
+gtts
+qrcode
